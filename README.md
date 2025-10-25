@@ -44,9 +44,5 @@ This project is open-source and available under the MIT License.
 - Background images from Unsplash  
 - Bootstrap & Font Awesome for styling and icons  
 - Inspiration from typical “weather dashboard” tutorials and projects  
-
----
-
-> Created by [Your Name]  
-> Last updated: YYYY-MM-DD  
+  
 
